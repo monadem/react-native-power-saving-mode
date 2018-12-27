@@ -11,7 +11,7 @@
     "react-native"
   ],
   "author": "tarik@ibsgroup.io",
-  "license": "",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
   },

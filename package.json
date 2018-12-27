@@ -1,8 +1,8 @@
 
 {
   "name": "react-native-power-saving-mode",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "React native library for detecting Power Saving changes and accessing it current state, for Android.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,9 @@
   "license": "",
   "peerDependencies": {
     "react-native": "^0.41.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibsgroup/react-native-power-saving-mode.git"
   }
 }

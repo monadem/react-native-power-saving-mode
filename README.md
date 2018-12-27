@@ -30,7 +30,7 @@ React native library for detecting **Power Saving** changes and accessing it cur
 
 3. Insert the following lines inside the dependencies block in `android/app/build.gradle`:
 
-   - Gradle **version < 3 : ** `compile project( ":react-native-power-saving-mode" ) `
+   - Gradle **version < 3 :** `compile project( ":react-native-power-saving-mode" ) `
    - Gradle **version >= 3 :** `implementation project( ":react-native-power-saving-mode" )`
 ## Usage
 
